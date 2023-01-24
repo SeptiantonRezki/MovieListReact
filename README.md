@@ -1,6 +1,6 @@
 # View App
 
-(imageDocumentaion/image1.PNG)
+![Game Demo](imageDocumentaion/image1.PNG)
 
 # Getting Started with Create React App
 
