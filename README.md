@@ -1,6 +1,6 @@
 # View App
 
-https://github.com/SeptiantonRezki/MovieListReact/blob/main/imageDocumentaion/image1.PNG
+(imageDocumentaion/image1.PNG)
 
 # Getting Started with Create React App
 
